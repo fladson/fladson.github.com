@@ -1,0 +1,68 @@
+/* shadow: horizontal-offset vertical-offset blur-radius? spread-radius? color */
+/* http://placenamehere.com/article/384/css3boxshadowininternetexplorerblurshadow */
+/* http://dimox.net/cross-browser-css3-box-shadow/ */
+/* http://www.brunildo.org/test/img_center.html */
+/* line 1, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre {
+  color: #e6e1dc;
+}
+/* line 5, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .n, pre .nc, pre .no, pre .o, pre .nb, pre .p, pre .nf {
+  color: #e6e1dc;
+}
+/* line 6, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .k, pre .kp, pre .nt, pre .kd {
+  color: #bc4a48;
+}
+/* line 11, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .mi {
+  color: #8ecd92;
+}
+/* line 14, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .kc {
+  color: #e7ce9b;
+}
+/* line 17, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .na {
+  color: #eef2b9;
+}
+/* line 20, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .c, pre .c1 {
+  color: #bd66bf;
+}
+/* line 23, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .s, pre .s1, pre .s2 {
+  color: #9dcd7e;
+}
+/* line 26, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+pre .ss {
+  color: #78ccdd;
+}
+
+/* line 30, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+.type-css pre .nc {
+  color: #eef2b9;
+}
+/* line 33, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+.type-css pre .nt {
+  color: #78ccdd;
+}
+
+/* line 37, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+.type-yaml pre .p-Indicator, .type-yaml pre .l-Scalar-Plain {
+  color: #bc4a48;
+}
+
+/* line 41, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/themes/dark/_code.scss */
+.highlight {
+  background: transparent url("/images/backgrounds/charcoal.jpg") !important;
+  -webkit-border-radius: 3px !important;
+  -moz-border-radius: 3px !important;
+  border-radius: 3px !important;
+  padding: 8px;
+}
+
+/* line 5, /Users/viatropos/Documents/git/personal/apps/viatropos/app/assets/stylesheets/light.scss */
+body, html {
+  background: transparent url("/images/backgrounds/eggshell.jpg");
+}
