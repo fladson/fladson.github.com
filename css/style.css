@@ -70,6 +70,14 @@ p ppgsc a {
   color: #446CB3;
 }
 
+p imdb a {
+  color: #F5AB35;
+}
+
+p trakt a {
+  color: #F64747;
+}
+
 a {
     color: #cfcfcf;
     text-decoration: none;
